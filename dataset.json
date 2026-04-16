@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Lakewood, California. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Lakewood, California, US",
+  "export_job_id": "84fd4e53-1637-4c35-bf07-20a6ef169e19",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 753933,
+  "location_name": "Lakewood",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-lakewood-california-us-sample-753933",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/753933/beamstation_753933_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.88,
+  "sample_records": 17,
+  "sample_sha256": "afe3d72a328495a5ccc9f2fd0cdabde2ec322a0c3421d81df34ba66a5d988372",
+  "sample_size_bytes": 71894,
+  "total_records": 172,
+  "updated_at": "2026-04-09T09:20:12.027390+00:00"
+}
