@@ -9,9 +9,9 @@
 | Dataset ID | `753933` |
 | Location | Lakewood |
 | Category | Restaurants |
-| Full dataset size | 170 records |
-| Free sample size | 17 records (10.0%) |
-| Last export | 2026-04-23T09:19:19.096729+00:00 |
+| Full dataset size | 175 records |
+| Free sample size | 17 records (9.71%) |
+| Last export | 2026-04-30T09:19:27.183530+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lakewood-california-us-sample-753933/releases/download/sample-latest/beamstation_753933_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
