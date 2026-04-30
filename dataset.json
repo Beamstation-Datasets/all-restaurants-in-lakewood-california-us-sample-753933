@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Comprehensive dining market data for Lakewood, California. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Lakewood, California, US",
-  "export_job_id": "84f9dcf2-6739-4f1c-b723-1c3b7cf912d0",
+  "export_job_id": "ffeb4610-acc9-4c2a-9249-09a56604cae6",
   "github_org": "Beamstation-Datasets",
   "id_short": 753933,
   "location_name": "Lakewood",
   "location_type": "city",
   "repo_name": "all-restaurants-in-lakewood-california-us-sample-753933",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/753933/beamstation_753933_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 10.0,
+  "sample_pct": 9.71,
   "sample_records": 17,
-  "sample_sha256": "596ff5f01abc27d231cae60720bb1923a875f5696f1711db7bb6049cd1832ec4",
-  "sample_size_bytes": 72342,
-  "total_records": 170,
-  "updated_at": "2026-04-23T09:19:19.096729+00:00"
+  "sample_sha256": "024e3ccca3f39a381b53acb118d99ae5e326d7d52b158002426b481f15a8dc2b",
+  "sample_size_bytes": 69687,
+  "total_records": 175,
+  "updated_at": "2026-04-30T09:19:27.183530+00:00"
 }
