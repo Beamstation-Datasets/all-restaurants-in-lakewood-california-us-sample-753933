@@ -1,12 +1,12 @@
 {
-  "export_job_id": "84f9dcf2-6739-4f1c-b723-1c3b7cf912d0",
+  "export_job_id": "ffeb4610-acc9-4c2a-9249-09a56604cae6",
   "id_short": 753933,
-  "published_at": "2026-04-23T19:38:32Z",
+  "published_at": "2026-04-30T19:03:08Z",
   "repo_name": "all-restaurants-in-lakewood-california-us-sample-753933",
   "sample_asset_name": "beamstation_753933_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/753933/beamstation_753933_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 17,
-  "sample_sha256": "596ff5f01abc27d231cae60720bb1923a875f5696f1711db7bb6049cd1832ec4",
-  "sample_size_bytes": 72342,
-  "total_records": 170
+  "sample_sha256": "024e3ccca3f39a381b53acb118d99ae5e326d7d52b158002426b481f15a8dc2b",
+  "sample_size_bytes": 69687,
+  "total_records": 175
 }
